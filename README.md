@@ -1,4 +1,4 @@
-# Scalable Primal-Dual Actor-Critic Method for Safe Multi-Agent Reinforcement Learning with General Utilities (2023)
+# Scalable Primal-Dual Actor-Critic Method for Safe Multi-Agent Reinforcement Learning with General Utilities (NeurIPS 2023)
 Authors: Donghao Ying, Yunkai Zhang, Yuhao Ding, Alec Koppel, and Javad Lavaei.
 
 ## Citation
